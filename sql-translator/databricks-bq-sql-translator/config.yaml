@@ -1,0 +1,5 @@
+project_id: "dev-moonshot-experiment"
+location: "us-central1"
+gemini_model_name_str: "gemini-2.0-flash-001"
+rag_resource_id: "projects/dev-moonshot-experiment/locations/us-central1/ragCorpora/6917529027641081856"
+bq_sql_output_bucket: "dbx-translate-output"
